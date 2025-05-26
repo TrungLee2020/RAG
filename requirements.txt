@@ -1,0 +1,8 @@
+sentence-transformers
+openpyxl
+PyMuPDF
+pymupdf4llm
+faiss-cpu
+langchain
+transformers
+langchain-community
