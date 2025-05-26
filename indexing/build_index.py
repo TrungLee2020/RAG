@@ -8,8 +8,8 @@ import uuid
 from typing import List, Dict, Any
 from dotenv import load_dotenv
 
-from modules_new.text_splitter import DocumentChunk, custom_split
-from modules_new.vector_db import FAISSVectorStore
+from text_splitter import DocumentChunk, custom_split
+from vector_db import FAISSVectorStore
 
 # Thiết lập logging
 logging.basicConfig(
