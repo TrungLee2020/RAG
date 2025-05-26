@@ -61,3 +61,8 @@ Build RAG from the source and install dependencies:
     ```sh
     ❯ pip install -r requirements.txt
     ```
+4. **Testing:**
+    ```sh
+    python test.py
+    ```
+    
